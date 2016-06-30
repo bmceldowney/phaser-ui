@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/bmceldowney/projects/phaser-ui/node_modules/phaser/typescript/pixi.d.ts",
+    "raw": "file:./node_modules/phaser/typescript/pixi.d.ts",
+    "typings": "/Users/bmceldowney/projects/phaser-ui/node_modules/phaser/typescript/pixi.d.ts"
+  }
+}

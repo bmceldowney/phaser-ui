@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "p2": "file:./node_modules/phaser/typescript/p2.d.ts",
+    "phaser": "file:./node_modules/phaser/typescript/phaser.d.ts",
+    "pixi": "file:./node_modules/phaser/typescript/pixi.d.ts"
+  }
+}
